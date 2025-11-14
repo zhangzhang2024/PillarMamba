@@ -7,6 +7,7 @@ Cloud via Hybrid State Space Model</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-00629b.svg)](https://arxiv.org/pdf/2505.05397)
+![Visitors](https://komarev.com/ghpvc/?username=zhangzhang2024&repo=PillarMamba&label=Hello,%20Visitor%20&color=CD5C5C&style=social)
 
 <!-- <p align="center">
 <img src="docs/assets/height3d_fig3.png" width="800" alt="" class="img-responsive">
