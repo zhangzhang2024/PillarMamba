@@ -1,7 +1,7 @@
 CLASS_NAMES: ['Car', 'Pedestrian', 'Cyclist']
 
 DATA_CONFIG: 
-    _BASE_CONFIG_: Path/PillarID/tools/cfgs/dataset_configs/kitti_dataset.yaml
+    _BASE_CONFIG_: Path/PillarMamba/tools/cfgs/dataset_configs/kitti_dataset.yaml
     DATA_PROCESSOR:
     - NAME: mask_points_and_boxes_outside_range
       REMOVE_OUTSIDE_BOXES: True
@@ -61,7 +61,7 @@ MODEL:
         NUM_BEV_FEATURES: 64
 
     BACKBONE_2D:
-        NAME: PillarIDEncoder
+        NAME: PillarMambaEncoder
 
     DENSE_HEAD:
         NAME: CenterHead

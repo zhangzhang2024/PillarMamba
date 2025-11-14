@@ -1,5 +1,5 @@
-from .base_bev_backbone import PillarIDEncoder
+from .base_bev_backbone import PillarMambaEncoder
 
 __all__ = {
-    'PillarIDEncoder':PillarIDEncoder,
+    'PillarMambaEncoder':PillarMambaEncoder,
 }
