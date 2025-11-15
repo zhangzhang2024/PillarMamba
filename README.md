@@ -73,7 +73,7 @@ CUDA_VISIBLE_DEVICES=0 python tools/eval.py \
 ```
 
 ## Citation 
-If you find this project useful in your research, please consider citing:
+If you find our paper and code useful in your research, please consider giving us a star ⭐ and citing our work 📝 :)
 
 ```
 @article{zhang2025pillarmamba,
