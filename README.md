@@ -22,6 +22,9 @@ Cloud via Hybrid State Space Model</h1>
 
 As an important component of Intelligent Transportation Systems (ITS) and Vehicle-to-Everything (V2X), roadside point cloud 3D object detection has not received sufficient attention and effective network architecture design. The dense context in roadside point cloud due to the perspective difference in sensor locations motivates us to explore the potential of state space model for roadside scenarios. We address the inefficient computation, local connection disrupted and historical relationship forgotten faced by standard Mamba through the design of Cross-stage State-space Group (CSG) and Hybrid State-space Block (HSB) in roadside point cloud scenarios. Our PillarMamba achieves the state-of-the-art in two real-world roadside point cloud perception benchmarks, DAIR-V2X-I and RCooper.
 
+<p align="center">
+<img src="docs/pillarmamba.png" width="800" alt="" class="img-responsive">
+</p>
 
 ## Getting Started
 ### Installation
