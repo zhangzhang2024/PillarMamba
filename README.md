@@ -38,7 +38,7 @@ As an important component of Intelligent Transportation Systems (ITS) and Vehicl
 
 #### a. Clone this repository
 ```shell
-https://github.com/zhangzhang2024/PillarMamba && cd PillarMamba
+git clone https://github.com/zhangzhang2024/PillarMamba && cd PillarMamba
 ```
 #### b. Install the environment
 
